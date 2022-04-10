@@ -1,0 +1,22 @@
+#welcome{
+    background-color: blue;
+}
+#bio{
+    background-color: bisque;
+}
+#videos{
+    background-color: aquamarine;
+}
+a{
+    top: 0px;
+    margin-top: 0px;
+}
+.class_maind{
+    border: 1px solid lightgray;
+}
+.class_maind img{
+    width: 100%;
+}
+.class_maind h4 , .class_maind p{
+    margin: 20px;
+}
